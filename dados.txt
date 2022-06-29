@@ -1,0 +1,9 @@
+/* testando o codigo */
+
+void calculo (float b)
+{ 
+            if (a >= 70) 
+                 return 1.0 + 9;
+            else
+                 return 2.0;
+}
