@@ -19,7 +19,7 @@ TIMEOUT /T 10
 cls
 
 echo: 
-echo Insira seu arquivo .l (ele deve estar na mesma pasta): 
+echo Insira o nome do seu arquivo .l (ele deve estar na mesma pasta): 
 set /p name=
 echo Your name is %filename%
 
