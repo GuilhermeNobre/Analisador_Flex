@@ -22,6 +22,7 @@ echo:
 echo Insira o nome do seu arquivo .l (ele deve estar na mesma pasta): 
 set /p name=
 
+echo: 
 echo:CRIANDO O ARQUIVO lex.yy.c a partir de %filename%
 flex %name%
 echo:
